@@ -33,6 +33,7 @@ My main focus here is colelcting materials for machine processing, but I am also
 * Social Networks
 * Game Theory
 * RL
+* Physical Chemistry
 
 ## Textbooks
 
