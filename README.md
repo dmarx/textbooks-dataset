@@ -142,3 +142,4 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * Lots of courses (youtube), last updated Nov 2022 https://deep-learning-drizzle.github.io/
 * https://github.com/codecrafters-io/build-your-own-x
 * https://github.com/tmabraham/diffusion_reading_group
+* https://github.com/nocotan/awesome-information-geometry
