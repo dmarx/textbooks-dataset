@@ -61,6 +61,8 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2021 - An Introduction to Johnson–Lindenstrauss Transforms
   * https://arxiv.org/pdf/2103.00564.pdf
 
+* 2023 - Stanford Encyclopedia of Philosophy
+  * https://huggingface.co/datasets/dmarx/stanford-encyclopedia-of-philosophy_dec23
 
 **Needs Categorization**
 
