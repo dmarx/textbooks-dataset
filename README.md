@@ -10,29 +10,6 @@ Links will be preferntially to PDFs for standardization. Source code should be l
 
 My main focus here is colelcting materials for machine processing, but I am also including "portal" pages to e.g. help human learniners find associated course content and/or more human-readable presentation.
 
-## TODO
-
-* Diff Geo
-* Topology
-* Info Geo
-* Strogatz
-* Allen B Downey
-* Graph Theory
-* Network Theory
-* Ecology
-* Systems Theory
-* Risk Management
-* Emergency Management
-* Climate Science
-* Molecular Biology
-* Vector Calculus
-* Statistical Mechanics
-* Complexity
-* Network Science
-* Social Networks
-* Game Theory
-* Physical Chemistry
-
 ## Textbooks
 
 * 2021 - The Principles of Deep Learning Theory
@@ -173,3 +150,28 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * https://github.com/nocotan/awesome-information-geometry
 * https://github.com/swsnu/aisys2023
 * https://github.com/irregular-rhomboid/EAI-Math-Reading-Group
+
+
+## TODO
+
+* Diff Geo
+* Topology
+* Info Geo
+* Strogatz
+* Allen B Downey
+* Graph Theory
+* Network Theory
+* Ecology
+* Systems Theory
+* Risk Management
+* Emergency Management
+* Climate Science
+* Molecular Biology
+* Vector Calculus
+* Statistical Mechanics
+* Complexity
+* Network Science
+* Social Networks
+* Game Theory
+* Physical Chemistry
+
