@@ -29,6 +29,7 @@ My main focus here is colelcting materials for machine processing, but I am also
   * portal - https://probml.github.io/pml-book/book2.html
   * project portal - https://github.com/probml/pml-book/
 
+
 ### Misc Intro Deep Learning
 
 Putting these all under a single bucket because I anticipate there to be a lot of repeated content across these.
@@ -61,6 +62,11 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://johnsbutler.netlify.app/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf
   * https://github.com/john-s-butler-dit/Numerical-Analysis-Python
   * https://github.com/john-s-butler-dit/NumericalAnalysisBook
+
+* 2003 - Information Theory, Inference, and Learning Algorithms
+  * http://www.inference.org.uk/itprnn/book.pdf
+  * portal https://www.inference.org.uk/mackay/itila/book.html
+
 
 ## Listicles
 
