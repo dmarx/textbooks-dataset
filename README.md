@@ -41,6 +41,13 @@ Putting these all under a single bucket because I anticipate there to be a lot o
   * https://github.com/d2l-ai/d2l-en
   * portal - https://d2l.ai/
 
+## Limited License
+
+If it's in this section, it's probably only licensed for personal use. Double check before using any of these.
+
+* 2023 - Bayesian Optimization
+  * https://github.com/bayesoptbook/bayesoptbook.github.io?tab=readme-ov-file
+  * portal - https://bayesoptbook.com/
 
 ## Listicles
 
@@ -49,5 +56,4 @@ Putting these all under a single bucket because I anticipate there to be a lot o
 * https://github.com/dmarx/bench-warmers
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/craffel/dl3d-seminar
-
 
