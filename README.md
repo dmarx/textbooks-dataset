@@ -155,7 +155,8 @@ If it's in this section, it's probably only licensed for personal use or the lic
   *https://people.math.ethz.ch/~salamon/PREPRINTS/funcana-ams.pdf
   * https://people.math.ethz.ch/~salamon/
 
-
+* 2023 - Discrete Differential Geometry
+  * https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf
 
 
 ## Listicles
