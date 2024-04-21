@@ -37,6 +37,10 @@ My main focus here is colelcting materials for machine processing, but I am also
   * https://github.com/storopoli/Bayesian-Julia
   * online - https://storopoli.io/Bayesian-Julia/
 
+* Make A Lisp
+  * https://github.com/kanaka/mal
+  * NB: textbook has been re-implemented in 87 different programming languages. Coding Rosetta Stone.
+
 ### Misc Intro Deep Learning
 
 Putting these all under a single bucket because I anticipate there to be a lot of repeated content across these.
