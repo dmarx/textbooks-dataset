@@ -138,6 +138,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * Book - https://pbr-book.org/4ed/contents
   * Code - https://github.com/mmp/pbrt-v4
 
+* Sutton and Bartow RL
+  * https://inst.eecs.berkeley.edu/~cs188/sp20/assets/files/SuttonBartoIPRLBook2ndEd.pdf
+  * CC-BY-NC
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
