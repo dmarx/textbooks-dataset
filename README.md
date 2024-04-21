@@ -139,9 +139,13 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book.htm
   * License not specified
  
-* 2022 - Intro to Differential Geometry (Salamon)
+* 2022 - Intro to Differential Geometry I (Salamon)
   * https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf
   * Lots more lecture notes in book form - https://people.math.ethz.ch/~salamon/
+
+* 2022 - Intro to Differential Geometry II (Salamon)
+  * https://people.math.ethz.ch/~salamon/PREPRINTS/difftop.pdf
+  * https://people.math.ethz.ch/~salamon/
 
 * 2020 - Measure and Integration (Salamon)
   * https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf
