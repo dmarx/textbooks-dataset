@@ -138,6 +138,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf
   * https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book.htm
   * License not specified
+ 
+* 2022 - Intro to Differential Geometry
+  * https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf
+  * Lots more lecture notes in book form - https://people.math.ethz.ch/~salamon/
 
 
 ## Listicles
