@@ -143,6 +143,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://mitpress.mit.edu/9780262039246/reinforcement-learning/
   * CC-BY-NC
 
+* Linear Algebra Done Right (Axler)
+ * https://linear.axler.net/LADR4e.pdf
+ * CC-BY-NC
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
