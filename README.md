@@ -33,6 +33,9 @@ My main focus here is colelcting materials for machine processing, but I am also
   * https://github.com/ermongroup/cs228-notes
   * portal - https://cs.stanford.edu/~ermon/cs228/index.html
 
+* 2021 - Bayesian Statistics With Julia and Turing
+  * https://github.com/storopoli/Bayesian-Julia
+  * online - https://storopoli.io/Bayesian-Julia/
 
 ### Misc Intro Deep Learning
 
