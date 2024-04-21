@@ -143,3 +143,4 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * https://github.com/codecrafters-io/build-your-own-x
 * https://github.com/tmabraham/diffusion_reading_group
 * https://github.com/nocotan/awesome-information-geometry
+* https://github.com/swsnu/aisys2023
