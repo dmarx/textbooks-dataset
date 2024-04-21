@@ -30,6 +30,7 @@ My main focus here is colelcting materials for machine processing, but I am also
   * project portal - https://github.com/probml/pml-book/
 
 
+
 ### Misc Intro Deep Learning
 
 Putting these all under a single bucket because I anticipate there to be a lot of repeated content across these.
@@ -67,6 +68,9 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * http://www.inference.org.uk/itprnn/book.pdf
   * portal https://www.inference.org.uk/mackay/itila/book.html
 
+* 2008 - Graphical Models, Exponential Families, and Variational Inference
+  * https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
+  * Published as a paper, publisher doesn't permit downlaod w/o subscription. Licensing general unclear.
 
 ## Listicles
 
