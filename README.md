@@ -36,3 +36,4 @@ My main focus here is colelcting materials for machine processing, but I am also
 
 * https://github.com/dmarx/bench-warmers
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
+* https://github.com/craffel/dl3d-seminar
