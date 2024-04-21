@@ -81,6 +81,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/140324.pdf
   * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
+* 2019 - Applied Stochastic Differential Equations
+  * https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
+  * code - https://github.com/AaltoML/SDE
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
