@@ -30,7 +30,7 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2023 - Probabilistic Machine Learning: Advanced Topics (Bishop 2)
   * https://github.com/probml/pml2-book/releases/latest/download/book2.pdf
   * portal - https://probml.github.io/pml-book/book2.html
-  * * project portal - https://github.com/probml/pml-book/
+  * project portal - https://github.com/probml/pml-book/
 
 ## Listicles
 
