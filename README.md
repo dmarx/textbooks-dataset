@@ -20,7 +20,7 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2017 - Elements of Statistical Learning
   * https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf
   * portal - https://hastie.su.domains/ElemStatLearn/
-* Dive Into Deep Learning
+* 2023 - Dive Into Deep Learning
   * https://github.com/d2l-ai/d2l-en
   * portal - https://d2l.ai/
 * 2022 - Probabilistic Machine Learning: An Introduction (Bishop 1)
