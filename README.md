@@ -151,6 +151,12 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://people.math.ethz.ch/~salamon/PREPRINTS/measure.pdf
   * https://people.math.ethz.ch/~salamon/
 
+* 2015 - Functional Analysis (Salamon)
+  *https://people.math.ethz.ch/~salamon/PREPRINTS/funcana-ams.pdf
+  * https://people.math.ethz.ch/~salamon/
+
+
+
 
 ## Listicles
 
