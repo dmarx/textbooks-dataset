@@ -41,6 +41,9 @@ Putting these all under a single bucket because I anticipate there to be a lot o
   * https://github.com/d2l-ai/d2l-en
   * portal - https://d2l.ai/
 
+* 2020 - FastAI Book
+  * https://github.com/fastai/fastbook
+
 ## Limited License
 
 If it's in this section, it's probably only licensed for personal use. Double check before using any of these.
@@ -48,6 +51,10 @@ If it's in this section, it's probably only licensed for personal use. Double ch
 * 2023 - Bayesian Optimization
   * https://github.com/bayesoptbook/bayesoptbook.github.io?tab=readme-ov-file
   * portal - https://bayesoptbook.com/
+
+* 2016 - Deep Learning (Goodfellow, Bengio, Courville)
+  * https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf
+  * portal - https://www.deeplearningbook.org/
 
 ## Listicles
 
