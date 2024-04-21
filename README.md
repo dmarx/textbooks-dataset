@@ -58,6 +58,10 @@ My main focus here is colelcting materials for machine processing, but I am also
   * https://web.mit.edu/6.001/6.037/sicp.pdf
   * https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 
+* 2021 - An Introduction to Johnson–Lindenstrauss Transforms
+  * https://arxiv.org/pdf/2103.00564.pdf
+
+
 **Needs Categorization**
 
 * https://github.com/huggingface/course
