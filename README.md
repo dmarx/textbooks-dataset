@@ -84,6 +84,10 @@ Putting these all under a single bucket because I anticipate there to be a lot o
   * https://github.com/udlbook/udlbook/
   * https://udlbook.github.io/udlbook/
 
+* 2020 - An Elementary Introduction to Information Geometry
+  * https://www.mdpi.com/1099-4300/22/10/1100
+  * https://www.mdpi.com/1099-4300/22/10/1100/pdf?version=1603379009
+
 ## Limited License
 
 If it's in this section, it's probably only licensed for personal use or the licensing is sufficiently ambiguous that you may not want to train on content in this section. Double check before using any of these.
