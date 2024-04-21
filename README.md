@@ -71,3 +71,4 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * https://github.com/craffel/dl3d-seminar
 * https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 * 8 part (8 papers) RL course with code demos for each - https://github.com/Curt-Park/rainbow-is-all-you-need
+* Lots of courses (youtube), last updated Nov 2022 https://deep-learning-drizzle.github.io/
