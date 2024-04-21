@@ -134,6 +134,12 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://linear.axler.net/
   * CC-BY-NC
 
+* 2004 - Lectures on Differential Geometry
+  * https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf
+  * https://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book.htm
+  * License not specified
+
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
@@ -154,7 +160,6 @@ If it's in this section, it's probably only licensed for personal use or the lic
 
 ## TODO
 
-* Diff Geo
 * Topology
 * Info Geo
 * Strogatz
