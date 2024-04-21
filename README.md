@@ -20,9 +20,6 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2017 - Elements of Statistical Learning
   * https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf
   * portal - https://hastie.su.domains/ElemStatLearn/
-* 2023 - Dive Into Deep Learning
-  * https://github.com/d2l-ai/d2l-en
-  * portal - https://d2l.ai/
 * 2022 - Probabilistic Machine Learning: An Introduction (Bishop 1)
   * https://github.com/probml/pml-book/releases/latest/download/book1.pdf
   * portal https://probml.github.io/pml-book/book1.html
@@ -31,6 +28,19 @@ My main focus here is colelcting materials for machine processing, but I am also
   * https://github.com/probml/pml2-book/releases/latest/download/book2.pdf
   * portal - https://probml.github.io/pml-book/book2.html
   * project portal - https://github.com/probml/pml-book/
+
+### Misc Intro Deep Learning
+
+Putting these all under a single bucket because I anticipate there to be a lot of repeated content across these.
+
+* UVA Deep learning
+  * https://github.com/phlippe/uvadlc_notebooks
+  * portal - https://uvadlc-notebooks.readthedocs.io/en/latest/
+
+* 2023 - Dive Into Deep Learning
+  * https://github.com/d2l-ai/d2l-en
+  * portal - https://d2l.ai/
+
 
 ## Listicles
 
