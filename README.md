@@ -46,7 +46,7 @@ Putting these all under a single bucket because I anticipate there to be a lot o
 
 ## Limited License
 
-If it's in this section, it's probably only licensed for personal use. Double check before using any of these.
+If it's in this section, it's probably only licensed for personal use or the licensing is sufficiently ambiguous that you may not want to train on content in this section. Double check before using any of these.
 
 * 2023 - Bayesian Optimization
   * https://github.com/bayesoptbook/bayesoptbook.github.io?tab=readme-ov-file
@@ -56,6 +56,12 @@ If it's in this section, it's probably only licensed for personal use. Double ch
   * https://github.com/janishar/mit-deep-learning-book-pdf/raw/master/complete-book-pdf/deeplearningbook.pdf
   * portal - https://www.deeplearningbook.org/
 
+* 2021 - Numerical Methods for Differential Equations with Python
+  * No license listed for certain repos, others are MIT licensed. Probably fine, putting it in limited license section just due to the ambiguity.
+  * https://johnsbutler.netlify.app/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf
+  * https://github.com/john-s-butler-dit/Numerical-Analysis-Python
+  * https://github.com/john-s-butler-dit/NumericalAnalysisBook
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
@@ -64,3 +70,4 @@ If it's in this section, it's probably only licensed for personal use. Double ch
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/craffel/dl3d-seminar
 * https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+* 8 part (8 papers) RL course with code demos for each - https://github.com/Curt-Park/rainbow-is-all-you-need
