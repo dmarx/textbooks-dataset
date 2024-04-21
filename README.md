@@ -153,9 +153,9 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * CC-BY-NC
 
 * Linear Algebra Done Right (Axler)
- * https://linear.axler.net/LADR4e.pdf
- * https://linear.axler.net/
- * CC-BY-NC
+  * https://linear.axler.net/LADR4e.pdf
+  * https://linear.axler.net/
+  * CC-BY-NC
 
 ## Listicles
 
