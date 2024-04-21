@@ -37,6 +37,9 @@ My main focus here is colelcting materials for machine processing, but I am also
 
 ## Textbooks
 
+* 2021 - The Principles of Deep Learning Theory
+  * https://arxiv.org/abs/2106.10165
+
 * 2021 - Geometric Deep Learning
   * https://arxiv.org/pdf/2104.13478.pdf
   * source - https://arxiv.org/src/2104.13478
