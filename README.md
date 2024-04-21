@@ -12,7 +12,6 @@ My main focus here is colelcting materials for machine processing, but I am also
 
 ## TODO
 
-* SICP
 * Diff Geo
 * Topology
 * Info Geo
@@ -78,6 +77,10 @@ My main focus here is colelcting materials for machine processing, but I am also
 * Category Theory for Programmers
   * https://github.com/hmemcpy/milewski-ctfp-pdf/releases/tag/v1.3.0
   * portal - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+* 1996 - structure and interpretation of computer programs (SICP, Abelman and Sussman)
+  * https://web.mit.edu/6.001/6.037/sicp.pdf
+  * https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
 
 **Needs Categorization**
 
