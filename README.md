@@ -72,7 +72,10 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 1992 - Paradigms of AI Programming (Norvig)
   * https://github.com/norvig/paip-lisp
 
+**Needs Categorization**
+
 * https://github.com/huggingface/course
+* https://github.com/mlc-ai/mlc-en
 
 
 ### Misc Intro Deep Learning
