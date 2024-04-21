@@ -29,6 +29,9 @@ My main focus here is colelcting materials for machine processing, but I am also
   * portal - https://probml.github.io/pml-book/book2.html
   * project portal - https://github.com/probml/pml-book/
 
+* CS228 - Probabilistic Graphical Models
+  * https://github.com/ermongroup/cs228-notes
+  * portal - https://cs.stanford.edu/~ermon/cs228/index.html
 
 
 ### Misc Intro Deep Learning
@@ -73,6 +76,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * alt - https://statistics.berkeley.edu/tech-reports/649
   * source - https://statistics.berkeley.edu/sites/default/files/tech-reports/649.ps.Z
   * Published as a paper, publisher doesn't permit downlaod w/o subscription. Licensing general unclear.
+
+* 2024 - Bayesian Reasoning And Machine Learning
+  * http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/140324.pdf
+  * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
 ## Listicles
 
