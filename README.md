@@ -129,6 +129,10 @@ If it's in this section, it's probably only licensed for personal use or the lic
   * https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
   * code - https://github.com/AaltoML/SDE
 
+* Physically Based Rendering
+  * Book - https://pbr-book.org/4ed/contents
+  * Code - https://github.com/mmp/pbrt-v4
+
 ## Listicles
 
 * https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
@@ -144,3 +148,4 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * https://github.com/tmabraham/diffusion_reading_group
 * https://github.com/nocotan/awesome-information-geometry
 * https://github.com/swsnu/aisys2023
+* https://github.com/irregular-rhomboid/EAI-Math-Reading-Group
