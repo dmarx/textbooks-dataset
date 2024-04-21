@@ -93,6 +93,11 @@ Putting these all under a single bucket because I anticipate there to be a lot o
 * 2020 - FastAI Book
   * https://github.com/fastai/fastbook
 
+* 2023 - Understanding Deep Learning (Prince)
+  * https://github.com/udlbook/udlbook/releases/download/v2.05/UnderstandingDeepLearning_04_18_24_C.pdf
+  * https://github.com/udlbook/udlbook/
+  * https://udlbook.github.io/udlbook/
+
 ## Limited License
 
 If it's in this section, it's probably only licensed for personal use or the licensing is sufficiently ambiguous that you may not want to train on content in this section. Double check before using any of these.
