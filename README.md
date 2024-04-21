@@ -44,6 +44,24 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2013 - Probabilistic Programming and Bayesian Methods for Hackers
   * https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
+* 1992 - Paradigms of AI Programming (Norvig)
+  * https://github.com/norvig/paip-lisp
+
+* SICP
+* Diff Geo
+* Topology
+* Info Geo
+* Strogatz
+* Allen B Downey
+* Graph Theory
+* Network Theory
+* Ecology
+* Systems Theory
+* Risk Management
+* Emergency Management
+* Climate Science
+* Molecular Biology
+
 ### Misc Intro Deep Learning
 
 Putting these all under a single bucket because I anticipate there to be a lot of repeated content across these.
