@@ -56,4 +56,4 @@ If it's in this section, it's probably only licensed for personal use. Double ch
 * https://github.com/dmarx/bench-warmers
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/craffel/dl3d-seminar
-
+* https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
