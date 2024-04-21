@@ -44,6 +44,10 @@ Putting these all under a single bucket because I anticipate there to be a lot o
 
 ## Listicles
 
+* https://github.com/stars/dmarx/lists/pedagogical - This project is largely seeded by the content from this list
+
 * https://github.com/dmarx/bench-warmers
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 * https://github.com/craffel/dl3d-seminar
+
+
