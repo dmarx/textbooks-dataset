@@ -10,6 +10,30 @@ Links will be preferntially to PDFs for standardization. Source code should be l
 
 My main focus here is colelcting materials for machine processing, but I am also including "portal" pages to e.g. help human learniners find associated course content and/or more human-readable presentation.
 
+## TODO
+
+* SICP
+* Diff Geo
+* Topology
+* Info Geo
+* Strogatz
+* Allen B Downey
+* Graph Theory
+* Network Theory
+* Ecology
+* Systems Theory
+* Risk Management
+* Emergency Management
+* Climate Science
+* Molecular Biology
+* Vector Calculus
+* Statistical Mechanics
+* Complexity
+* Network Science
+* Social Networks
+* Game Theory
+* RL
+
 ## Textbooks
 
 * 2021 - Geometric Deep Learning
@@ -47,20 +71,8 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 1992 - Paradigms of AI Programming (Norvig)
   * https://github.com/norvig/paip-lisp
 
-* SICP
-* Diff Geo
-* Topology
-* Info Geo
-* Strogatz
-* Allen B Downey
-* Graph Theory
-* Network Theory
-* Ecology
-* Systems Theory
-* Risk Management
-* Emergency Management
-* Climate Science
-* Molecular Biology
+* https://github.com/huggingface/course
+
 
 ### Misc Intro Deep Learning
 
