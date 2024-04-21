@@ -75,6 +75,10 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 1992 - Paradigms of AI Programming (Norvig)
   * https://github.com/norvig/paip-lisp
 
+* Category Theory for Programmers
+  * https://github.com/hmemcpy/milewski-ctfp-pdf/releases/tag/v1.3.0
+  * portal - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
 **Needs Categorization**
 
 * https://github.com/huggingface/course
