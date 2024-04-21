@@ -140,6 +140,7 @@ If it's in this section, it's probably only licensed for personal use or the lic
 
 * Sutton and Bartow RL
   * https://inst.eecs.berkeley.edu/~cs188/sp20/assets/files/SuttonBartoIPRLBook2ndEd.pdf
+  * https://mitpress.mit.edu/9780262039246/reinforcement-learning/
   * CC-BY-NC
 
 ## Listicles
