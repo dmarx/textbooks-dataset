@@ -70,6 +70,7 @@ If it's in this section, it's probably only licensed for personal use or the lic
 
 * 2008 - Graphical Models, Exponential Families, and Variational Inference
   * https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf
+  * alt - https://statistics.berkeley.edu/tech-reports/649
   * Published as a paper, publisher doesn't permit downlaod w/o subscription. Licensing general unclear.
 
 ## Listicles
