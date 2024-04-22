@@ -61,9 +61,6 @@ My main focus here is colelcting materials for machine processing, but I am also
 * 2021 - An Introduction to Johnson–Lindenstrauss Transforms
   * https://arxiv.org/pdf/2103.00564.pdf
 
-* 2023 - Stanford Encyclopedia of Philosophy
-  * https://huggingface.co/datasets/dmarx/stanford-encyclopedia-of-philosophy_dec23
-
 **Needs Categorization**
 
 * https://github.com/huggingface/course
@@ -168,6 +165,9 @@ If it's in this section, it's probably only licensed for personal use or the lic
 * 2023 - Discrete Differential Geometry
   * https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf
 
+* 2023 - Stanford Encyclopedia of Philosophy
+  * https://huggingface.co/datasets/dmarx/stanford-encyclopedia-of-philosophy_dec23
+  * I think if I reach out to the SEP and ask they'd be cool with this kind of application of their data, but I'm not confident this falls under their current terms of use. Buyer beware.
 
 ## Listicles
 
